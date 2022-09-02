@@ -38,7 +38,7 @@ Lors de la collecte des Données, vous serez informé si certaines Données doiv
 
 ## 3. Qui sont les destinataires des données que nous collectons et pour quelles raisons leur transmettons-nous ces données ? 
 
-### 3.1.Données traitées par Monsieur Yannis Bendi-Ouis
+### 3.1. Données traitées par Monsieur Yannis Bendi-Ouis
 
 Les Données collectées nous sont destinées en notre qualité de responsable du traitement à fin de :
 
@@ -47,13 +47,13 @@ Les Données collectées nous sont destinées en notre qualité de responsable d
 - (iii) Mettre en confiance les utilisateurs sur les autres utilisateurs de l’application. Connaître l’identité des personnes participant à une activité donne plus confiance quant au bon déroulement de celle-ci, et permet d'agir avec les autorités compétentes en cas de comportement inaproprié de la part d'un utilisateur.  
 
 
-### 3.2.Données transférées aux autorités et/ou organismes publics 
+### 3.2. Données transférées aux autorités et/ou organismes publics 
 
 Conformément à la réglementation en vigueur, les Données peuvent être transmises aux autorités compétentes sur requête et notamment aux organismes publics, aux auxiliaires de justice, aux officiers  ministériels, aux organismes chargés d’effectuer le recouvrement de créances, exclusivement pour répondre aux obligations légales, ainsi que dans le cas de la recherche des auteurs d’infractions commises sur internet.
 
 De plus, dans le cas où Weke est tenu au courant d'un comportement inaproprié, problématique ou illégale de la part d'un utilisateur, sur l'application ou lors d'une rencontre organisée via Weke, nous serons contraint de bloquer ce-dit utilisateur et de prévenir les autorités compétentes.
 
-### 3.3.Données transférées à des tiers 
+### 3.3. Données transférées à des tiers 
 
 Nous pouvons travailler en étroite collaboration avec des entreprises tierces qui peuvent avoir accès à vos Données, et notamment avec :  
 - D’éventuels sous-traitants et prestataires de services. Nous leur transmettons uniquement les données dont ils ont besoin pour effectuer les  prestations que nous leur confions, et nous exigeons qu’ils n’utilisent pas vos données à d’autres fins. Ces tiers n'agissent que conformément à nos instructions et sont contractuellement tenus d’assurer un niveau de sécurité et de confidentialité de vos données identique au nôtre et de se conformer à la réglementation applicable sur la protection des données à caractère personnel. Ces éventuelles tiers sont d’ailleurs tenus de nous transmettre une attestation de conformité RGPD qui vient détailler leur conformité. 
