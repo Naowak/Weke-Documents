@@ -4,12 +4,12 @@ Conformément au RGPD, pour supprimer définitivement vos données de Weke, envo
 yannis.bendiouis@gmail.com  
 
 
-Voici un exemple de mail à envoyer :   
+## Exemple de mail   
 
-Sujet :  
+**Sujet :**  
 Suppression des mes données personnelles  
 
-Contenu :  
+**Contenu :**  
 Bonjour, je souhaite supprimer définitivement toutes les données liées à mon compte Weke.  
 
 Email : example@mail.com  
