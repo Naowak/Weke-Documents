@@ -1,8 +1,8 @@
-# Condition Générale d'Utilisation de Weke (CGU)
+# Conditions Générales d'Utilisation de Weke (CGU)
 
 ## 1. Objet
 
-L'individu Yannis Bendi-Ouis (ci-après "Weke") édite une plateforme d'organisation de rencontre sportive accessible via l'application mobile Weke destinée à mettre en relation des personnes souhaitant participer à une activité sportive collective.  
+Monsieur Yannis Bendi-Ouis, dont le siège social est situé en France (ci-après "Weke"), édite une plateforme d'organisation de rencontre sportive, accessible via l'application mobile Weke destinée à mettre en relation des personnes souhaitant participer à une activité sportive collective.  
 
 Les présentes conditions générales d’utilisation ont pour objet d’encadrer l’accès et les modalités d’utilisation de la plateforme. Nous vous invitons à en prendre attentivement connaissance. Vous comprenez et reconnaissez que Weke n’est partie à aucun accord, contrat ou relation contractuelle, de quelque nature que ce soit, conclu entre les membres de sa plateforme.  
 
@@ -13,11 +13,11 @@ En cliquant sur le bouton « Connexion avec Facebook », « Connexion avec Googl
 
 ### 2.1. Conditions d’inscription à la Plateforme
 
-L’utilisation de plateforme est réservée aux personnes physiques âgées de 13 ans ou plus. Toute inscription sur la plateforme ayant moins de 13 ans est interdite. En accédant, utilisant ou vous inscrivant sur la plateforme, vous déclarez et garantissez avoir 13 ans ou plus.  
+L’utilisation de la plateforme est réservée aux personnes physiques âgées de 13 ans ou plus. Toute inscription sur la plateforme par une personne ayant moins de 13 ans est interdite. En accédant, utilisant ou vous inscrivant sur la plateforme, vous déclarez et garantissez avoir 13 ans ou plus.  
 
 ### 2.2. Création de Compte
 
-La plateforme permet aux membres de publier des annonces pour des rencontres sportives et de consulter des annonces publiées par d'autres membres. De plus, les membres de la plateforme peuvent intérargir entre eux pour la réservation de place, l'organisation de l'activité ou à des fins privées.   
+La plateforme permet aux membres de publier des annonces pour des rencontres sportives et de consulter des annonces publiées par d'autres membres. De plus, les membres de la plateforme peuvent intérargir entre eux pour la réservation de place(s), l'organisation de l'activité ou à des fins privées.   
 
 Pour créer votre compte, vous pouvez :  
 
@@ -37,14 +37,14 @@ Vous vous engagez à ne pas créer ou utiliser, sous votre propre identité ou c
 
 Weke peut, à des fins de transparence, d’amélioration de la confiance, ou de prévention ou détection des fraudes, mettre en place un système de vérification de certaines des informations que vous fournissez sur votre profil.  
 
-Vous reconnaissez et acceptez que toute référence sur la plateforme ou les service à des informations dites « vérifiées » ou tout terme similaire, signifie uniquement qu’un membre a réussi avec succès la procédure de vérification existante sur la plateforme ou les services afin de vous fournir davantage d’informations sur le membre avec lequel vous envisagez de pratiquer votre activité sportive. Weke ne garantit ni la véracité, ni la fiabilité, ni la validité de l’information ayant fait l’objet de la procédure de vérification.  
+Vous reconnaissez et acceptez que toute référence, sur la plateforme ou les services, à des informations dites « vérifiées » ou tout terme similaire, signifie uniquement qu’un membre a réussi avec succès la procédure de vérification existante, sur la plateforme ou les services, afin de vous fournir davantage d’informations sur le membre avec lequel vous envisagez de pratiquer votre activité sportive. Weke ne garantit ni la véracité, ni la fiabilité, ni la validité de l’information ayant fait l’objet de la procédure de vérification.  
 
 
 ## 3. Utilisation des Services
 
-### 3.1. Publication des annonces de rencontre spotive
+### 3.1. Publication des annonces de rencontre sportive
 
-En tant que membre, et sous réserve que vous remplissiez les conditions ci-dessous, vous pouvez créer et publier des annonces de rencontre sportive sur la plateforme en indiquant des informations quant à l'activité sportive que vous comptez effectuer (dates/heures et lieux, nombre de places disponible, options proposées, description, etc.).  
+En tant que membre, et sous réserve que vous remplissiez les conditions ci-dessous, vous pouvez créer et publier des annonces de rencontre sportive sur la plateforme en indiquant des informations quant à l'activité sportive que vous comptez effectuer (dates/heures et lieux, nombre de places disponibles, options proposées, description, etc.).  
 
 Vous reconnaissez être le seul responsable du contenu de l’annonce de rencontre sportive que vous publiez sur la plateforme. En conséquence, vous déclarez et garantissez l’exactitude et la véracité de toute information contenue dans votre annonce de rencontre sportive et vous vous engagez à être présent au rendez-vous que vous indiquez sur votre annonce : en date, heure et lieu.  
 
@@ -57,17 +57,17 @@ En publiant votre annonce, vous vous engagez à avoir un comportement approprié
 
 Weke a mis en place un système de réservation de places en ligne pour les activités proposées sur la plateforme.
 
-Weke met à disposition des utilisateurs un ensemble de filtre fondés sur différents critères permettant aux membres de trouver l'annonce la plus adéquate. Weke invite l'utilisateur à consulter et utiliser consciencieusement cet ensemble de filtre afin de déterminer de lui même l'offre qui lui parait la plus adaptée à ses envies/besoins.  
+Weke met à disposition des utilisateurs un ensemble de filtres fondés sur différents critères permettant aux membres de trouver l'annonce la plus adéquate. Weke invite l'utilisateur à consulter et utiliser consciencieusement cet ensemble de filtres afin de déterminer de lui même l'offre qui lui parait la plus adaptée à ses envies/besoins.  
 
-En réservant une place, vous vous engagez être présent, en date, heure et lieu au rendez-vous présenter dans l'annonce de recontre sportive. De plus, vous vous engagez à avoir un comportement approprié, et à prévenir Weke de tout comportement inapproprié qu'un participant de l'activité peut avoir à l'égard des autres participants et ce, sur la plateforme ou lors du déroulement de l'activité. 
+En réservant une place, vous vous engagez être présent, en date, heure et lieu au rendez-vous présenté dans l'annonce de recontre sportive. De plus, vous vous engagez à avoir un comportement approprié, et à prévenir Weke de tout comportement inapproprié qu'un participant de l'activité peut avoir à l'égard des autres participants et ce, sur la plateforme ou lors du déroulement de l'activité. 
 
 ### 3.3. Inscription à une activité
 
 Lorsqu’un utilisateur est intéressé par une annonce de rencontre sportive, il peut effectuer une demande d'inscription à l'activité. Cette demande est (i) soit acceptée automatiquement (si l'organisateur a choisi cette option lors de la publication de son annonce), (ii) soit acceptée manuellement par l'organisateur. Après validation de la demande d'inscription par l'organisateur, le cas échéant, l'utilisateur reçoit une notification lui confirmant l'acceptation de son inscription par l'organisateur.  
 
-Si vous êtes un organisateur et que vous avez choisi de gérer vous-mêmes les demandes d'inscription lors de la publication de votre annonce de rencontre sportive, vous êtes tenu de répondre à toute demande d'inscription. A défaut, la demande d'inscription sera annulé lorsque l'activité démarerra.  
+Si vous êtes un organisateur et que vous avez choisi de gérer vous-même les demandes d'inscription lors de la publication de votre annonce de rencontre sportive, vous êtes tenu de répondre à toute demande d'inscription. A défaut, la demande d'inscription sera annulée lorsque l'activité démarerra.  
 
-Lorsqu'un utilisateur s'inscrit à une activité ou lorsqu'il est accepté par l'organisateur d'une activité, il a alors accès à une conversation de groupe entre tous les participants de l'activité. Weke vous encourage à communiquer avec les autres participants de l'activité via cette discussion pour éviter tout mal entendu ou mauvaise organisation de l'activité.  
+Lorsqu'un utilisateur s'inscrit à une activité ou lorsqu'il est accepté par l'organisateur d'une activité, il a alors accès à une conversation de groupe entre tous les participants de l'activité. Weke vous encourage à communiquer avec les autres participants de l'activité via cette discussion pour éviter tout malentendu ou mauvaise organisation de l'activité.  
 
 ### 3.4. Caractère nominatif de la réservation de place 
 
@@ -80,7 +80,7 @@ Toutefois, Weke permet à ses membres de réserver une ou plusieurs places lors 
 
 ## 4. Politique d’annulation
 
-A tout moment, un l'utilisateur à le droit d'annuler sa participation à une activité ou de supprimer une annonce de rencontre sportive dont il est l'organisateur et ce, sans avoir à fournir de justificatif à une autre membre de la plateforme ou à Weke.  
+A tout moment, l'utilisateur a le droit d'annuler sa participation à une activité ou de supprimer une annonce de rencontre sportive dont il est l'organisateur et ce, sans avoir à fournir de justificatif à un autre membre de la plateforme ou à Weke.  
 
 
 
@@ -104,7 +104,7 @@ Par ailleurs, en utilisant la plateforme et lors des rencontres sportives, vous 
 En outre, lorsque vous utilisez la plateforme en tant qu'organisateur, vous vous engagez à :  
 
 (i) respecter l’ensemble des lois, règles, codes applicables  
-(ii) publier des annonce de rencontre sportive correspondant uniquement à des rencontres sportives réellement envisagés  
+(ii) publier des annonces de rencontres sportives correspondant uniquement à des rencontres sportives réellement envisagées  
 (iii) respecter l'activité, les horaires et lieux convenus avec les autres membres  
 (iv) en cas d’empêchement ou de changement de l’horaire de la rencontre sportive, en informer sans délais vos participants  
 (v) attendre les participants sur le lieu de rencontre convenu au moins 15 minutes au-delà de l’heure convenue  
@@ -140,14 +140,14 @@ Lorsque cela est nécessaire, vous serez notifié de la mise en place d’une te
 
 ## 7. Données personnelles
 
-Dans le cadre de votre utilisation de la plateforme, Weke est amenée à collecter et traiter certaines de vos données personnelles. En utilisant la plateforme et vous inscrivant en tant que membre, vous reconnaissez et acceptez le traitement de vos données personnelles par Weke conformément à la loi applicable et aux stipulations de la [Politique de Confidentialité de Weke](https://github.com/Naowak/Weke-Documents/blob/main/privacy_policy.md).  
+Dans le cadre de votre utilisation de la plateforme, Weke est amené à collecter et traiter certaines de vos données personnelles. En utilisant la plateforme et vous inscrivant en tant que membre, vous reconnaissez et acceptez le traitement de vos données personnelles par Weke conformément à la loi applicable et aux stipulations de la [Politique de Confidentialité de Weke](https://github.com/Naowak/Weke-Documents/blob/main/privacy_policy.md).  
 
 
 ## 8. Propriété intellectuelle
 
 ### 8.1. Contenu publié par Weke
 
-Sous réserve des contenus fournis par ses membres, Weke est seule titulaire de l’ensemble des droits de propriété intellectuelle afférents au service, à la plateforme, à son contenu (notamment les textes, images, dessins, logos, vidéos, sons, données, graphiques) ainsi qu’aux logiciels et bases de données assurant leur fonctionnement.  
+Sous réserve des contenus fournis par ses membres, Weke est seul titulaire de l’ensemble des droits de propriété intellectuelle afférents au service, à la plateforme, à son contenu (notamment les textes, images, dessins, logos, vidéos, sons, données, graphiques) ainsi qu’aux logiciels et bases de données assurant leur fonctionnement.  
 
 Weke vous accorde une licence non exclusive, personnelle et non cessible d’utilisation de la plateforme et des services, pour votre usage personnel et privé, à titre non commercial et conformément aux finalités de la plateforme et des services.  
 
@@ -156,7 +156,7 @@ Vous vous interdisez toute autre utilisation ou exploitation de la plateforme et
 - (i) reproduire, modifier, adapter, distribuer, représenter publiquement, diffuser la plateforme, les services et leur contenu, à l’exception de ce qui est expressément autorisé par Weke  
 - (ii) décompiler, procéder à de l’ingénierie inverse de la plateforme ou des services, sous réserve des exceptions prévues par les textes en vigueur  
 - (iii) extraire ou tenter d’extraire (notamment en utilisant des robots d’aspiration de données ou tout autre outil similaire de collecte de données) une partie substantielle des données de la plateforme.
-- (iv) accéder ou tenter d'accèder aux services de Weke sans utiliser l'application Weke prévu à cet effet
+- (iv) accéder ou tenter d'accèder aux services de Weke sans utiliser l'application Weke prévue à cet effet
 
 ### 8.2. Contenu publié par vous sur la plateforme
 
@@ -168,11 +168,11 @@ Afin de permettre la fourniture des services et conformément à la finalité de
 
 ## 9. Rôle de Weke
 
-La plateforme constitue une plateforme en ligne de mise en relation sur laquelle les membres peuvent créer et publier des annonces de rencontre sportive. Ces annonces de rencontre sportive peuvent notamment être consultées par les autres membres pour prendre connaissance des modalités du de l'activité et, le cas échéant, réserver directement une ou plusieurs place(s).  
+La plateforme constitue une plateforme en ligne de mise en relation sur laquelle les membres peuvent créer et publier des annonces de rencontre sportive. Ces annonces de rencontres sportives peuvent notamment être consultées par les autres membres pour prendre connaissance des modalités de l'activité et, le cas échéant, réserver directement une ou plusieurs place(s).  
 
 Weke n’a aucun contrôle sur le comportement de ses membres, et des utilisateurs de la plateforme. Elle ne possède pas, n’exploite pas, ne fournit pas, ne gère pas les lieux spécifiés dans les annonces, ni ne propose la moindre activité sur la plateforme.  
 
-Vous reconnaissez et acceptez que Weke ne contrôle ni la validité, ni la véracité, ni la légalité des annonces, des places et activités proposés. En sa qualité d’intermédiaire en rencontre sportive, Weke ne fournit aucun service sportif, le rôle de Weke se limitant à faciliter l’accès à la plateforme.  
+Vous reconnaissez et acceptez que Weke ne contrôle ni la validité, ni la véracité, ni la légalité des annonces, des places et activités proposées. En sa qualité d’intermédiaire en rencontre sportive, Weke ne fournit aucun service sportif, le rôle de Weke se limitant à faciliter l’accès à la plateforme.  
 
 Dans le cadre d’une rencontre sportive, les membres (organisateurs ou participants) agissent sous leur seule et entière responsabilité, notamment conformément aux dispositions du code civil relatives au droit des obligations et à la responsabilité civile contractuelle (article 1101 et suivants du Code Civil).  
 
@@ -194,7 +194,7 @@ En outre, Weke se réserve le droit de modifier ou d’interrompre, à sa seule 
 
 Les présentes CGU expriment l’intégralité de l’accord entre vous et Weke relative à votre utilisation des services. Tout autre document, notamment toute mention sur la plateforme (FAQ, Blog, etc.), n’a qu’une valeur informative.
 
-Weke pourra être amenée à modifier les présentes CGU afin de s’adapter à son environnement technologique et commercial et afin de se conformer à la réglementation en vigueur. Toute modification des présentes CGU sera publiée sur la plateforme avec une mention de la date de mise à jour et vous sera notifiée par Weke.
+Weke pourra être amené à modifier les présentes CGU afin de s’adapter à son environnement technologique et commercial et afin de se conformer à la réglementation en vigueur. Toute modification des présentes CGU sera publiée sur la plateforme avec une mention de la date de mise à jour et vous sera notifiée par Weke.
 
 
 ## 12. Droit applicable 
