@@ -2,11 +2,13 @@
 
 ## 1. Objet
 
-Monsieur Yannis Bendi-Ouis, dont le siège social est situé en France (ci-après "Weke"), édite une plateforme d'organisation de rencontre sportive, accessible via l'application mobile Weke destinée à mettre en relation des personnes souhaitant participer à une activité sportive collective.  
+Monsieur Yannis Bendi-Ouis, dont le siège social est situé en France (ci-après "Weke"), édite une plateforme d'organisation de rencontre sportive, accessible via l'application mobile Weke destinée à mettre en relation des personnes souhaitant participer à une activité sportive collective.
 
 Les présentes conditions générales d’utilisation ont pour objet d’encadrer l’accès et les modalités d’utilisation de la plateforme. Nous vous invitons à en prendre attentivement connaissance. Vous comprenez et reconnaissez que Weke n’est partie à aucun accord, contrat ou relation contractuelle, de quelque nature que ce soit, conclu entre les membres de sa plateforme.  
 
-En cliquant sur le bouton « Connexion avec Facebook », « Connexion avec Google » ou « Inscription avec un email », vous reconnaissez avoir pris connaissance et accepter l’intégralité des présentes conditions générales d’utilisation.  
+En cliquant sur le bouton « Connexion avec Facebook », « Connexion avec Google », « Connexion avec Apple » ou « Inscription avec un email », vous reconnaissez avoir pris connaissance et accepter l’intégralité des présentes conditions générales d’utilisation.  
+
+Si vous n'acceptez pas ces conditions, vous ne devez pas utiliser l'application. Nous nous réservons le droit de modifier ces conditions de temps à autre, sans préavis. Il est de votre responsabilité de vous tenir informé de ces modifications en consultant régulièrement cette page.
 
 
 ## 2. Inscription à la plateforme et création de compte
@@ -24,12 +26,15 @@ Pour créer votre compte, vous pouvez :
 - (i) soit remplir l’ensemble des champs obligatoires figurant sur le formulaire d’inscription  
 - (ii) soit vous connecter, via notre plateforme, à votre compte Facebook (ci-après, votre « Compte Facebook »). En utilisant une telle fonctionnalité, vous comprenez que Weke aura accès, publiera sur la plateforme et conservera certaines informations de votre Compte Facebook. Si vous souhaitez en savoir plus sur l’utilisation de vos données dans le cadre de votre Compte Facebook, consultez notre [Politique de Confidentialité](https://github.com/Naowak/Weke-Documents/blob/main/privacy_policy.md) et celle de Facebook.  
 - (iii) soit vous connecter, via notre plateforme, à votre compte Google (ci-après, votre « Compte Google »). En utilisant une telle fonctionnalité, vous comprenez que Weke aura accès, publiera sur la plateforme et conservera certaines informations de votre compte Google. Si vous souhaitez en savoir plus sur l’utilisation de vos données dans le cadre de votre compte Google, consultez notre [Politique de Confidentialité](https://github.com/Naowak/Weke-Documents/blob/main/privacy_policy.md) et celle de Google.  
+- (iv) soit vous connecter, via notre plateforme, à votre compte Apple (ci-après, votre « Compte Apple »). En utilisant une telle fonctionnalité, vous comprenez que Weke aura accès, publiera sur la plateforme et conservera certaines informations de votre compte Apple. Si vous souhaitez en savoir plus sur l’utilisation de vos données dans le cadre de votre compte Apple, consultez notre [Politique de Confidentialité](https://github.com/Naowak/Weke-Documents/blob/main/privacy_policy.md) et celle de Apple.  
 
 Pour vous inscrire sur la plateforme, vous devez avoir lu et accepter les présentes CGU ainsi que la Politique de Confidentialité.  
 
 A l’occasion de la création de votre compte, et ce quelle que soit la méthode choisie pour ce faire, vous vous engagez à fournir des informations personnelles exactes et conformes à la réalité et à les mettre à jour, par l’intermédiaire de votre profil ou en en avertissant Weke, afin d’en garantir la pertinence et l’exactitude tout au long de votre relation contractuelle avec Weke.
 
 En cas d’inscription par email, vous vous engagez à garder secret le mot de passe choisi lors de la création de votre compte et à ne le communiquer à personne. En cas de perte ou divulgation de votre mot de passe, vous vous engagez à en informer sans délai Weke. Vous êtes seul responsable de l’utilisation faite de votre compte par un tiers, tant que vous n’avez pas expressément notifié Weke de la perte, l’utilisation frauduleuse par un tiers ou la divulgation de votre mot de passe à un tiers.
+
+Si vous avez connaissance d'une utilisation non autorisée de votre compte vous devez en informer immédiatement Weke.
 
 Vous vous engagez à ne pas créer ou utiliser, sous votre propre identité ou celle d’un tiers, d’autres comptes que celui initialement créé.
 
@@ -77,10 +82,6 @@ Toutefois, Weke permet à ses membres de réserver une ou plusieurs places lors 
 - (i) l'utilisateur réserve une seule place, il s'engage à être présent en date, heure et lieu au rendez-vous indiqué dans l'annonce  
 - (ii) l'utilisateur réserve plusieurs places, il s'engage à être présent en date, heure et lieux au rendez-vous indiqué dans l'annonce et à être accompagné d'un nombre de personnes correspondant aux nombres de places réservées moins un.  
 
-### 3.5. Accompagnement obligatoire pour les activités pour les enfants
-
-Weke permet de créer et de rejoindre des activités dites "pour enfants". Comme ce nom l'indique, ces activités sont prévues pour être réalisées par des enfants (mineurs). L'inscription a l'une de ces activités doit être réalisée par un adulte (majeur) responsable légalement de l'enfant et via le compte Weke de cet adulte. L'adulte doit systématiquement accompagner l'enfant pour toutes les activités organisées sur Weke auxquels l'enfant participe.
-
 
 ## 4. Politique d’annulation
 
@@ -98,7 +99,7 @@ Par ailleurs, en utilisant la plateforme et lors des rencontres sportives, vous 
 
 (i) ne transmettre à Weke (notamment lors de la création ou la mise à jour de votre compte) ou aux autres membres aucune information fausse, trompeuse, mensongère ou frauduleuse  
 (ii) ne tenir aucun propos, n’avoir aucun comportement ou ne publier sur la plateforme aucun contenu à caractère diffamatoire, injurieux, obscène, pornographique, vulgaire, offensant, agressif, déplacé, violent, menaçant, harcelant, raciste, xénophobe, à connotation sexuelle, incitant à la violence, à la discrimination ou à la haine, encourageant les activités ou l’usage de substances illégales ou, plus généralement, contraires aux finalités de la plateforme, de nature à porter atteinte aux droits de Weke ou d’un tiers ou contraires aux bonnes mœurs  
-(iii) ne pas porter atteinte aux droits et à l’image de Weke, notamment à ses droits de propriété intellectuelle  
+(iii) ne pas porter atteinte aux droits et à l’image de Weke, notamment à ses droits de propriété intellectuelle 
 (iv) ne pas ouvrir plus d’un Compte sur la plateforme et ne pas ouvrir de compte au nom d’un tiers  
 (v) vous conformer aux présentes CGU et à la Politique de Confidentialité  
 
@@ -174,11 +175,14 @@ Afin de permettre la fourniture des services et conformément à la finalité de
 
 La plateforme constitue une plateforme en ligne de mise en relation sur laquelle les membres peuvent créer et publier des annonces de rencontre sportive. Ces annonces de rencontres sportives peuvent notamment être consultées par les autres membres pour prendre connaissance des modalités de l'activité et, le cas échéant, réserver directement une ou plusieurs place(s).  
 
-Weke n’a aucun contrôle sur le comportement de ses membres, et des utilisateurs de la plateforme. Elle ne possède pas, n’exploite pas, ne fournit pas, ne gère pas les lieux spécifiés dans les annonces, ni ne propose la moindre activité sur la plateforme.  
+
+Weke n'est pas responsables des dommages indirects, accessoires, spéciaux, punitifs ou consécutifs découlant de ou liés à l'utilisation de l'application, y compris, sans limitation, la perte de profits, de données ou de chance. 
 
 Vous reconnaissez et acceptez que Weke ne contrôle ni la validité, ni la véracité, ni la légalité des annonces, des places et activités proposées. En sa qualité d’intermédiaire en rencontre sportive, Weke ne fournit aucun service sportif, le rôle de Weke se limitant à faciliter l’accès à la plateforme.  
 
 Dans le cadre d’une rencontre sportive, les membres (organisateurs ou participants) agissent sous leur seule et entière responsabilité, notamment conformément aux dispositions du code civil relatives au droit des obligations et à la responsabilité civile contractuelle (article 1101 et suivants du Code Civil).  
+
+Weke n’a aucun contrôle sur le comportement de ses membres, et des utilisateurs de la plateforme. Elle ne possède pas, n’exploite pas, ne fournit pas, ne gère pas les lieux spécifiés dans les annonces, ni ne propose la moindre activité sur la plateforme. 
 
 En sa qualité d’intermédiaire, Weke ne saurait voir sa responsabilité engagée au titre du déroulement effectif d’une rencontre sportive, et notamment du fait :  
 
@@ -203,8 +207,11 @@ Weke pourra être amené à modifier les présentes CGU afin de s’adapter à s
 
 ## 12. Droit applicable 
 
-Les présentes CGU sont rédigées en français et soumises à la loi française, sans préjudice des dispositions plus protectrices du consommateur en vertu de la loi de sa résidence habituelle.  
+Ces conditions générales d'utilisation sont régies et interprétées conformément aux lois de la France. Tous les litiges découlant de ou liés à l'utilisation de l'application seront soumis à la juridiction exclusive des tribunaux français.
 
 Si vous souhaitez attirer notre attention sur un sujet, merci de nous contacter en suivant les [directives présentes ici](https://github.com/Naowak/Weke-Documents/blob/main/contact.md).
 
 
+## 13. Contact
+
+Pour toute question ou commentaire concernant l'application Weke ou ces conditions générales d'utilisation, veuillez nous contacter à l'adresse suivante : yannis.bendiouis@gmail.com.
