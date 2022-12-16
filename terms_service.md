@@ -77,6 +77,10 @@ Toutefois, Weke permet à ses membres de réserver une ou plusieurs places lors 
 - (i) l'utilisateur réserve une seule place, il s'engage à être présent en date, heure et lieu au rendez-vous indiqué dans l'annonce  
 - (ii) l'utilisateur réserve plusieurs places, il s'engage à être présent en date, heure et lieux au rendez-vous indiqué dans l'annonce et à être accompagné d'un nombre de personnes correspondant aux nombres de places réservées moins un.  
 
+### 3.5. Accompagnement obligatoire pour les activités pour les enfants
+
+Weke permet de créer et de rejoindre des activités dites "pour enfants". Comme ce nom l'indique, ces activités sont prévues pour être réalisées par des enfants (mineurs). L'inscription a l'une de ces activités doit être réalisée par un adulte (majeur) responsable légalement de l'enfant et via le compte Weke de cet adulte. L'adulte doit systématiquement accompagner l'enfant pour toutes les activités organisées sur Weke auxquels l'enfant participe.
+
 
 ## 4. Politique d’annulation
 
