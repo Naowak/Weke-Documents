@@ -87,6 +87,4 @@ Notre application peut contenir des liens vers d'autres sites Internet qui ne so
 
 Nous n'avons aucun contrôle sur le contenu, les politiques de confidentialité ou les pratiques des sites tiers et nous déclinons toute responsabilité en ce qui concerne ces sites.
 
-Notre application est destinée à un public adulte et nous ne collectons pas intentionnellement de données personnelles de personnes de moins de 18 ans. Si nous avons connaissance de la collecte de données personnelles de personnes de moins de 18 ans, nous prendrons des mesures pour effacer ces données de nos serveurs.
-
 Dernière mise à jour : 16/12/2022
